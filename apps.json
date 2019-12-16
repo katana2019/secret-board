@@ -1,6 +1,7 @@
 {
   "name":"secret-board",
   "description": "秘密の匿名掲示板",
+  "repository": "https://github.com/katana2019/secret-board.git",
   "logo": "",
   "keywords": ["node"],
   "image": "heroku/nodejs"
