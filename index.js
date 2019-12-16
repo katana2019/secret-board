@@ -16,7 +16,7 @@ const server = http.createServer(basic, (req, res) => {
   console.error('Client Error', e);
 });
 
-const port = process.env.port || 8000;
+const port = 8000;
 server.listen(port, () => {
   console.info(`ポート${port}番でサーバー起動！`);
 });

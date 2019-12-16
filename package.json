@@ -15,8 +15,6 @@
     "pg-hstore": "2.3.3",
     "pug": "2.0.4",
     "sequelize": "4.44.3"
-  },
-  "engines": {
-    "node": "~10"
   }
+
 }
